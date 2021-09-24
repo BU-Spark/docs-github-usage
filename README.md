@@ -1,3 +1,19 @@
+- [Spark! Github Usage Procedures](#spark-github-usage-procedures)
+- [Philosophy](#philosophy)
+- [Repository Standards](#repository-standards)
+  - [Repository Names](#repository-names)
+  - [License](#license)
+  - [ReadMe](#readme)
+  - [Branch Protection](#branch-protection)
+  - [Permissions](#permissions)
+- [Repository Creation](#repository-creation)
+- [Permission Administration & Repository Usage](#permission-administration--repository-usage)
+  - [Adding Users](#adding-users)
+  - [Repository Usage](#repository-usage)
+  - [Repository License](#repository-license)
+    - [End of time period](#end-of-time-period)
+- [End of Life](#end-of-life)
+
 # Spark! Github Usage Procedures
 This document describes how Spark! approaches and utilizes project repositories on Github. It should be used as a guide for future project repository creation and the management of existing repositories. Through following the principle in this document we hope to standardize all Github operations within the various Spark!xCDS programs.
 
